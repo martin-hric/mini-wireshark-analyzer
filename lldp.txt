@@ -1,0 +1,3 @@
+LLDP ramce: 
+
+pocet LLDP: 0
